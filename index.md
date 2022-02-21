@@ -3,19 +3,19 @@
 You can use the [editor on GitHub](https://github.com/herveyrobot/MATG.github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
+![Image](https://github.com/herveyrobot/MATG.github.io/blob/gh-pages/1.png)
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
 ```markdown
 Syntax highlighted code block
-
+![Image](https://github.com/herveyrobot/MATG.github.io/blob/gh-pages/1.png)
 # Header 1
 ## Header 2
 ### Header 3
 
-
+https://raw.githubusercontent.com/devmonkeyx/image_repository/main/823VeeA5vJ.png
 - Bulleted
 - List
 ![Image](https://github.com/herveyrobot/MATG.github.io/blob/gh-pages/1.png)
