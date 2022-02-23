@@ -6,7 +6,7 @@ We aim to gain insight into the blind spots of deep learning models in multi-rob
 
 
 ## Videos
-![lll](https://raw.githubusercontent.com/herveyrobot/MATG.github.io/gh-pages/TEEB.gif)
+
 ### <center>TEEB</center>
 
 <center class="half">
