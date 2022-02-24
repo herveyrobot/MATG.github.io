@@ -10,6 +10,6 @@ We aim to gain insight into the blind spots of deep learning models in multi-rob
 ### <center>TEEB</center>
 
 <center class="half">
-    <img src="https://raw.githubusercontent.com/herveyrobot/MATG.github.io/gh-pages/image/teebdba.gif" width="300"/><img src="https://raw.githubusercontent.com/herveyrobot/MATG.github.io/gh-pages/image/teebtba.gif" width="300"/>
+    <img src="https://raw.githubusercontent.com/herveyrobot/MATG.github.io/gh-pages/image/teebdba.gif" width="500"/><img src="https://raw.githubusercontent.com/herveyrobot/MATG.github.io/gh-pages/image/teebtba.gif" width="500"/>
 </center>
 
