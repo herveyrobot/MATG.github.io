@@ -10,11 +10,13 @@ We aim to gain insight into the blind spots of deep learning models in multi-rob
 <center class="half">
     <img src="https://raw.githubusercontent.com/herveyrobot/HMAG.github.io/gh-pages/image/TRE-A1.gif" width="500"/><img src="https://raw.githubusercontent.com/herveyrobot/HMAG.github.io/gh-pages/image/TRE-C.gif" width="500"/>
 </center>
-### <center>Test Enviroment-A</center>
+
+### <center>Test Enviroment-A </center>
 <center class="half">
     <img src="https://raw.githubusercontent.com/herveyrobot/HMAG.github.io/gh-pages/image/TEEA-A-1.gif" width="500"/><img src="https://raw.githubusercontent.com/herveyrobot/HMAG.github.io/gh-pages/image/TEEA-C1.gif" width="500"/>
 </center>
-### <center>Test Enviroment-B</center>
+
+### <center>Test Enviroment-B </center>
 <center class="half">
     <img src="https://raw.githubusercontent.com/herveyrobot/HMAG.github.io/gh-pages/image/TEEB-A.gif" width="500"/><img src="https://raw.githubusercontent.com/herveyrobot/HMAG.github.io/gh-pages/image/TEEB-C.gif" width="500"/>
 </center>
