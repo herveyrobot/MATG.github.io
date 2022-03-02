@@ -1,8 +1,9 @@
-## Multi-robot Air-to-Ground Adersarial Policies
+## Deceptive Strategy Generation for Air-Ground Swarm Competition
 
-## Abstract
-We aim to gain insight into the blind spots of deep learning models in multi-robot air-to-ground swarm confrontation. Existing work mainly focuses on the research of static scenes and single robots, and the blind spot problem of multi-robot confrontation in dynamic scenes is not very clear. In this study, we developed a simulated environment for multi-robot air-to-ground combat. Through different swarm behavioral confrontation, a time-varying adversarial balancing method is proposed, which effectively improves the swarm model’s robustness against competition and behavioral diversity in dynamic environments. Through a large number of experiments, the advantages and disadvantages of individual decision-making and centralized decision-making in this group operation are explored. In particular, we further combine the objective fact that it is difficult to directly attack the local model in the natural environment, and propose a behavioral deception attack strategy, which uses the change of the robot’s own motion trajectory to achieve the attack on the guardian model.
+## <center> Abstract <center>
+We aim to gain insight into the blind spots of reinforcement learning (RL) deceptive adversarial attacks and defenses in heterogeneous multi-robot air-ground swarm confrontation. RL policy observations are known to be susceptible to adversarial perturbations, but it is difficult to modify the adversary's observations in natural environment combat directly. So this raises the question, is it possible to interfere with the battle's outcome through deceptive behavior? This paper develops a simulation environment for heterogeneous multi-robot air-ground combat, demonstrating a zero-sum game by observing the opponent's behavior. We propose a dynamic balance adversarial technique that effectively increases the behavioral diversity of swarm models in dynamic environments, such as a pincer attack, evasion, and flanking, thereby improving adversarial defense capabilities. A deceptive black-box attack is performed against the trained airpower RL model. The results show that this behavioral attack effectively reduces the number of winning rounds of the victim strategy. 
 
+---
 
 ## Action Trajectory Summary
 
