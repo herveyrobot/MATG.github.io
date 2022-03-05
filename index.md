@@ -15,15 +15,16 @@ The left image depicts the swarm action trained by our adversarial defense metho
     
 ### <center>Test Enviroment-A </center>
 <center class="half">
-    <img src="https://raw.githubusercontent.com/herveyrobot/HMAG.github.io/gh-pages/image/TEEA-A-1.gif" width="500"/><img src="https://raw.githubusercontent.com/herveyrobot/HMAG.github.io/gh-pages/image/TEEA-C1.gif" width="500"/>
+    <img src="https://raw.githubusercontent.com/herveyrobot/HMAG.github.io/gh-pages/image/TEEA-A-1.gif" width="400"/><img src="https://raw.githubusercontent.com/herveyrobot/HMAG.github.io/gh-pages/image/TEEA-C1.gif" width="500"/>
 </center>
 
 ### <center>Test Enviroment-B </center>
 <center class="half">
-    <img src="https://raw.githubusercontent.com/herveyrobot/HMAG.github.io/gh-pages/image/TEEB-A.gif" width="500"/><img src="https://raw.githubusercontent.com/herveyrobot/HMAG.github.io/gh-pages/image/TEEB-C.gif" width="500"/>
+    <img src="https://raw.githubusercontent.com/herveyrobot/HMAG.github.io/gh-pages/image/TEEB-A.gif" width="400"/><img src="https://raw.githubusercontent.com/herveyrobot/HMAG.github.io/gh-pages/image/TEEB-C.gif" width="500"/>
 </center>
     
 ---
     
 
-
+## Videos
+    
