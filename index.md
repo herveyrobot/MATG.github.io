@@ -6,12 +6,12 @@ We aim to gain insight into the blind spots of reinforcement learning (RL) decep
 ---
 
 ## Action Trajectory Summary
+The left image depicts the swarm action trained by our adversarial defense method. The right image shows the interference behavior of the defender policy by a deceptive attack with the cheater.
 
 ### <center>Training Enviroment</center>
 <center class="half">
     <img src="https://raw.githubusercontent.com/herveyrobot/HMAG.github.io/gh-pages/image/TRE-A1.gif" width="400"/> &nbsp <img src="https://raw.githubusercontent.com/herveyrobot/HMAG.github.io/gh-pages/image/TRE-C.gif" width="400"/>
 </center>
-The left image depicts the swarm action trained by our adversarial defense method. The right image shows the interference behavior of the defender policy by a deceptive attack with the cheater.
     
 ### <center>Test Enviroment-A </center>
 <center class="half">
@@ -22,4 +22,8 @@ The left image depicts the swarm action trained by our adversarial defense metho
 <center class="half">
     <img src="https://raw.githubusercontent.com/herveyrobot/HMAG.github.io/gh-pages/image/TEEB-A.gif" width="500"/><img src="https://raw.githubusercontent.com/herveyrobot/HMAG.github.io/gh-pages/image/TEEB-C.gif" width="500"/>
 </center>
+    
+---
+    
+
 
