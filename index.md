@@ -10,7 +10,7 @@ The left image depicts the swarm action trained by our adversarial defense metho
 
 ### <center>Training Enviroment</center>
 <center class="half">
-    <img src="https://raw.githubusercontent.com/herveyrobot/HMAG.github.io/gh-pages/image/TRE-A1.gif" width="400"/> &nbsp <img src="https://raw.githubusercontent.com/herveyrobot/HMAG.github.io/gh-pages/image/TRE-C.gif" width="400"/>
+    <img src="https://raw.githubusercontent.com/herveyrobot/HMAG.github.io/gh-pages/image/TRE-A1.gif" width="400"/> <img src="https://raw.githubusercontent.com/herveyrobot/HMAG.github.io/gh-pages/image/TRE-C.gif" width="400"/>
 </center>
     
 ### <center>Test Enviroment-A </center>
