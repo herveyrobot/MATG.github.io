@@ -9,7 +9,7 @@ We aim to gain insight into the blind spots of reinforcement learning (RL) decep
 
 ### <center>Training Enviroment</center>
 <center class="half">
-    <img src="https://raw.githubusercontent.com/herveyrobot/HMAG.github.io/gh-pages/image/TRE-A1.gif" width="500"/><img src="https://raw.githubusercontent.com/herveyrobot/HMAG.github.io/gh-pages/image/TRE-C.gif" width="500"/>
+    <img src="https://raw.githubusercontent.com/herveyrobot/HMAG.github.io/gh-pages/image/TRE-A1.gif" width="400"/><img src="https://raw.githubusercontent.com/herveyrobot/HMAG.github.io/gh-pages/image/TRE-C.gif" width="400"/>
 </center>
 
 ### <center>Test Enviroment-A </center>
