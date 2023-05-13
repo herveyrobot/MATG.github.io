@@ -1,12 +1,12 @@
-## Deceptive Strategy Generation for Air-Ground Swarm Competition
+## Deceptive Adversarial Attack for Air-Ground Swarm Competition
 
 ## <center> Abstract <center>
-We aim to gain insight into the blind spots of reinforcement learning (RL) deceptive adversarial attacks and defenses in heterogeneous multi-robot air-ground swarm confrontation. RL policy observations are known to be susceptible to adversarial perturbations, but it is difficult to modify the adversary's observations in natural environment combat directly. So this raises the question, is it possible to interfere with the battle's outcome through deceptive behavior? This paper develops a simulation environment for heterogeneous multi-robot air-ground combat, demonstrating a zero-sum game by observing the opponent's behavior. We propose a dynamic balance adversarial technique that effectively increases the behavioral diversity of swarm models in dynamic environments, such as a pincer attack, evasion, and flanking, thereby improving adversarial defense capabilities. A deceptive black-box attack is performed against the trained airpower RL model. The results show that this behavioral attack effectively reduces the number of winning rounds of the victim strategy. 
+Exploring the ways that artificial intelligence systems can be vulnerable to adversarial attacks is crucial for their safe and widespread use in various industries. However, most existing work focuses on how to modify the victim’s observations or introduce perturbations in specific layers of the network structure, ignoring the constraints of not having access to the victim’s neural network in realistic scenarios. This poses new challenges for intelligent agents in adversarial settings where they cannot access the opponent’s model, such as in multi-agent competitive scenarios. In this paper, we propose a method for generating deceptive strategies that use the agent’s motion behavior to confuse the victim’s policy without requiring access to the victim’s policy model, to help teammates win in multi-agent swarm  competitions. A learning framework based on the reinforcement learning paradigm is established to teach agents how to generate corresponding deceptive actions. The proposed framework is tested on our own developed Heterogeneous Multi-agent Air-Ground simulation scenario, demonstrating the effectiveness of this type of attack. 
 
 ---
 
 ## Action Trajectory Summary
-The left image depicts the swarm action trained by our adversarial defense method. The right image shows the interference behavior of the defender policy by a deceptive attack with the cheater.
+The swarm competition scenario is illustrated by the diagrams on the left. On the right, the diagrams depict the scenario where deceptive adversarial attackers join the competition.
 
 ### <center>Training Enviroment</center>
 <center class="half">
